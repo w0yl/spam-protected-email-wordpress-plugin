@@ -1,0 +1,9 @@
+/* Technique 1.5: CSS Display None Obfuscation */
+.spe-hide {
+    display: none !important;
+}
+
+.spe-email-link {
+    text-decoration: underline;
+    color: inherit;
+}
